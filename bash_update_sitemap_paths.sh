@@ -1,0 +1,1 @@
+find "$(dirname ${BASH_SOURCE[0]})" -type f -name "*.meta" > "$(dirname ${BASH_SOURCE[0]})"/sitemap_paths.lst
