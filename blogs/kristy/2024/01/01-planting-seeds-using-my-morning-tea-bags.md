@@ -1,0 +1,1 @@
+This morning I used my spent tea bags to start broccoli, radish, and peas seeds. I am passionate about upcycling things other people throw in the trash or recycling bin. The little glass jars are baby food jars. My 17 year old cat needs to eat more so I give her a can of turkey or chicken baby food every day and then save the jar.
