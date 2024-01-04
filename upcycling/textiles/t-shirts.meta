@@ -1,1 +1,4 @@
-{"title": "Upcycling T-shirts"}
+var meta = { 
+  title: "Upcycling T-shirts",
+  exclude_from_sitemap: false,
+};
