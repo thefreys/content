@@ -1,4 +1,4 @@
-const metaFiles = [
+export const metaFiles = [
 '404',
 'asking-ai/How do you make t-shirt yarn/chatgpt',
 'asking-ai/technical/list-files-from-a-terminal/bing',
